@@ -17,7 +17,8 @@
     "react-dom": "^18.2.0",
     "sweetalert2": "^11.10.1",
     "sweetalert2-react-content": "^5.0.7",
-    "deply": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "preview": "vite preview --port 8080"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
